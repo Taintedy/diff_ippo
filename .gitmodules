@@ -1,0 +1,3 @@
+[submodule "external/diff_ippo_heatmap"]
+	path = external/diff_ippo_heatmap
+	url = https://github.com/Sautenich/diff_ippo_heatmap.git
