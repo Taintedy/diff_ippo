@@ -10,6 +10,7 @@ DIFF-IPPO is a new approach to informative path planning that combines an **open
 
 The system is designed for both **single-agent and multi-agent exploration**, allowing teams of robots (e.g., drones) to efficiently search large environments and detect targets faster.
 
+The model and dataset are available [here](https://shorturl.at/b3CId).
 
 ## Repository Contents
 * `aid_output_json/` – Contains output logs and results from AID planner runs.
